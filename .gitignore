@@ -1,0 +1,9 @@
+*.pdf
+*.psd
+*.xml
+*.log
+*.aux
+*.bcf
+*.gz
+/.vs/
+/.vscode/
