@@ -5,5 +5,7 @@
 *.aux
 *.bcf
 *.gz
+*tar.gz
+*.bbl
 /.vs/
 /.vscode/
